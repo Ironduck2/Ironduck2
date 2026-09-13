@@ -1,5 +1,6 @@
-## Hi there 👋
+## 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adan-gallego-riera/)
 <!--
 **Ironduck2/Ironduck2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
